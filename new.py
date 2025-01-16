@@ -1,3 +1,3 @@
 print("Dixit")
 print("check code")
-print("create new festure")
+print("create new feature")
